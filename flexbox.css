@@ -4,7 +4,16 @@ html, body{
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aqua;
+    background-color: whitesmoke;
     line-height: 1.65;
     padding-bottom: 1000px;
+}
+
+.Container-satu{
+    width: 800px;
+    background-color: bisque;
+    margin: 50px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
 }
