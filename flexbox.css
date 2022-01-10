@@ -96,6 +96,7 @@ padding-bottom: 20px;
 .Container-lima{
     height: 500px;
     width: 500px;
+    border-radius: 10px;
     margin: 50px auto;
     border: 5px solid burlywood;
     display: flex;
@@ -104,14 +105,15 @@ padding-bottom: 20px;
 .kotak{
     height: 100px;
     width: 100px;
+    border-radius: 10px;
     background-color: cadetblue;
     color: cornsilk;
     margin: auto;
     text-align: center;
+    display: flex;
  
 }
 .kotak span{
-    display: flex;
     margin: auto;
     
 }
