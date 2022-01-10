@@ -61,7 +61,10 @@ order: 2;
     width: 100%;
 }
 
-
+.Container-empat{
+    max-width: 800px;
+    margin: 50px auto;
+}
 
 /* Rensponsiv */
 
