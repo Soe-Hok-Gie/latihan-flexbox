@@ -48,10 +48,18 @@ order: 2;
 
 .Container-tiga{
     width: 800px;
-    margin: 50px;
+    margin: 50px auto;
     display: flex;
+    flex-wrap: wrap;
+
 }
 
+.thumbnail{
+    width: 25%;
+}
+.thumbnail img {
+    width: 100%;
+}
 
 
 
