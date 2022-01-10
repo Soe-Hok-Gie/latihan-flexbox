@@ -46,6 +46,15 @@ order: 2;
 .layanan.dua{background-color: rgb(241, 65, 100)}
 .layanan.tiga{background-color:rgb(115, 148, 48) }
 
+.Container-tiga{
+    width: 800px;
+    margin: 50px;
+    display: flex;
+}
+
+
+
+
 /* Rensponsiv */
 
 @media(min-width: 600px){
