@@ -76,6 +76,12 @@ order: 2;
     height :150px;
 }
 
+.Card .content{
+
+text-align: center;
+padding-bottom: 20px;
+}
+
 /* Rensponsiv */
 
 @media(min-width: 600px){
