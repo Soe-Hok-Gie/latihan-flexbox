@@ -73,7 +73,6 @@ order: 2;
     overflow: hidden;
     margin: 10px;
     flex: 1;
-    
 }
 .Card .header{
     background-color: rgb(253, 123, 100);
@@ -86,6 +85,11 @@ text-align: center;
 padding-bottom: 20px;
 }
 
+
+.Card.premium{
+    transform: scale(1.12);
+    background-color: rgb(238, 60, 96);
+}
 /* Rensponsiv */
 
 @media(min-width: 600px){
