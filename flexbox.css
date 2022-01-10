@@ -36,3 +36,7 @@ order: 2;
     width: 800px;
     margin: 50px auto;
 }
+
+.layanan.satu{background-color: rgb(146, 241, 241);}
+.layanan.dua{background-color: rgb(241, 65, 100)}
+.layanan.tiga{background-color:rgb(115, 148, 48) }
