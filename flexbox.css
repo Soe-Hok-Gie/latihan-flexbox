@@ -29,3 +29,10 @@ order: 2;
     flex: 1;
     order: 3;
 }
+
+/* latihan 2 */
+
+.Container-dua{
+    width: 800px;
+    margin: 50px auto;
+}
