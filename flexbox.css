@@ -35,15 +35,25 @@ order: 2;
 .Container-dua{
     max-width: 800px;
     margin: 50px auto;
-    display: flex;
-    justify-content: space-between;
+ 
     }
 .layanan{
-    width: 30%;
     padding: 20px;
     box-sizing: border-box;
-
+    margin-bottom: 20px;
 }
 .layanan.satu{background-color: rgb(146, 241, 241);}
 .layanan.dua{background-color: rgb(241, 65, 100)}
 .layanan.tiga{background-color:rgb(115, 148, 48) }
+
+/* Rensponsiv */
+
+@media(min-width: 600px){
+    .Container-dua{
+        display: flex;
+        justify-content: space-between;
+    }
+    .layanan{
+        width: 30%;
+    }
+}
