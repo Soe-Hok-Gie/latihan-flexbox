@@ -46,6 +46,8 @@ order: 2;
 .layanan.dua{background-color: rgb(241, 65, 100)}
 .layanan.tiga{background-color:rgb(115, 148, 48) }
 
+
+/* latihan 3 */
 .Container-tiga{
     max-width: 800px;
     margin: 50px auto;
@@ -60,7 +62,7 @@ order: 2;
 .thumbnail img {
     width: 100%;
 }
-
+/* latihan empat  */
 .Container-empat{
     max-width: 800px;
     margin: 50px auto;
@@ -85,11 +87,19 @@ text-align: center;
 padding-bottom: 20px;
 }
 
-
 .Card.premium{
     transform: scale(1.12);
     background-color: rgb(238, 60, 96);
 }
+
+
+.Container-lima{
+    height: 500px;
+    width: 500px;
+    margin: 50px auto;
+    border: 5px solid burlywood;
+}
+
 /* Rensponsiv */
 
 @media(min-width: 600px){
