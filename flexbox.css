@@ -19,10 +19,13 @@ body{
 }
 .kolom-utama{
 flex: 3;
+order: 2;
 }
 .sidebar-satu{
-    flex: 1
+    flex: 1;
+    order: 1;
 }
 .sidebar-dua{
-    flex: 1
+    flex: 1;
+    order: 3;
 }
