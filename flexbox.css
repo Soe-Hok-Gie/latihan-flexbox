@@ -65,6 +65,11 @@ order: 2;
     max-width: 800px;
     margin: 50px auto;
 }
+.Card{
+    border: 1px solid #aaa;
+    background-color: rgb(57, 241, 241);
+    border-radius: 10px;
+}
 
 /* Rensponsiv */
 
