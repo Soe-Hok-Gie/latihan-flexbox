@@ -64,12 +64,14 @@ order: 2;
 .Container-empat{
     max-width: 800px;
     margin: 50px auto;
+    display: flex;
 }
 .Card{
     border: 1px solid #aaa;
     background-color: rgb(57, 241, 241);
     border-radius: 10px;
     overflow: hidden;
+    
 }
 .Card .header{
     background-color: rgb(253, 123, 100);
