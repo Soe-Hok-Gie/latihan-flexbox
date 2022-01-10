@@ -51,7 +51,7 @@ order: 2;
     margin: 50px auto;
     display: flex;
     flex-wrap: wrap;
-
+    justify-content: center;
 }
 
 .thumbnail{
