@@ -98,12 +98,15 @@ padding-bottom: 20px;
     width: 500px;
     margin: 50px auto;
     border: 5px solid burlywood;
+    display: flex;
+    
 }
 .kotak{
     height: 100px;
     width: 100px;
     background-color: cadetblue;
     color: cornsilk;
+    margin: auto;
 }
 
 /* Rensponsiv */
